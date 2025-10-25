@@ -18,7 +18,7 @@ The project includes:
 
 ## 🔍 Key Insights
 
-### Rodri Hernández
+### Rodri Hernández:
 
  - Excels in passing accuracy (94.27%), progressive passes, and key passes.
 
@@ -26,7 +26,7 @@ The project includes:
 
  - Heatmap shows strong central presence, reinforcing his role in structured buildup play.
 
-### Declan Rice
+### Declan Rice:
 
  - Dominates in recoveries, interceptions, and passes into the final third (19.71 P90).
 
