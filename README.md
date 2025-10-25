@@ -38,9 +38,9 @@ The project includes:
 
 Both players are equally vital but embody distinct philosophies:
 
-  - Rodri → Control & positional play
+  - Rodri → Control and positional play
 
-  - Rice → Intensity & transitions
+  - Rice → Intensity and transitions
 
 ## 📈 Analytical Focus
 
