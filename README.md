@@ -20,34 +20,34 @@ The project includes:
 
 ### Rodri Hernández
 
-Excels in passing accuracy (94.27%), progressive passes, and key passes.
+ - Excels in passing accuracy (94.27%), progressive passes, and key passes.
 
-Operates as a positional pivot, ensuring stability and possession control.
+ - Operates as a positional pivot, ensuring stability and possession control.
 
-Heatmap shows strong central presence, reinforcing his role in structured buildup play.
+ - Heatmap shows strong central presence, reinforcing his role in structured buildup play.
 
 ### Declan Rice
 
-Dominates in recoveries, interceptions, and passes into the final third (19.71 P90).
+ - Dominates in recoveries, interceptions, and passes into the final third (19.71 P90).
 
-Acts as a dynamic box-to-box midfielder, driving transitions and vertical play.
+ - Acts as a dynamic box-to-box midfielder, driving transitions and vertical play.
 
-Heatmap shows wide, advanced coverage, reflecting defensive intensity and risk-taking.
+ - Heatmap shows wide, advanced coverage, reflecting defensive intensity and risk-taking.
 
 ## Conclusion
 
 Both players are equally vital but embody distinct philosophies:
 
-Rodri → Control & positional play
+    - Rodri → Control & positional play
 
-Rice → Intensity & transitions
+    - Rice → Intensity & transitions
 
 ## 📈 Analytical Focus
 
-Comparison of performance metrics per 90 minutes (P90).
+ - Comparison of performance metrics per 90 minutes (P90).
 
-Standardization of variables for fair player comparison.
+ - Standardization of variables for fair player comparison.
 
-Visualization of play styles using bar charts and heatmaps.
+ - Visualization of play styles using bar charts and heatmaps.
 
-Tactical interpretation supported by quantitative data.
+ - Tactical interpretation supported by quantitative data.
