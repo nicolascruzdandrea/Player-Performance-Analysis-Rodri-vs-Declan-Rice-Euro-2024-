@@ -8,13 +8,13 @@ The analysis explores how, despite sharing a similar tactical position, both pla
 
 The project includes:
 
-A Python notebook for data processing, metric calculation, and visualization.
+ - A Python notebook for data processing, metric calculation, and visualization.
 
-A written report (PDF) with the main insights, visualizations, and tactical conclusions.
+ - A written report (PDF) with the main insights, visualizations, and tactical conclusions.
 
-⚙️ Technologies & Tools: Python (pandas, numpy, matplotlib, seaborn, plotly, scipy).
+ - Technologies & Tools: Python (pandas, numpy, matplotlib, seaborn, plotly, scipy).
 
-Data source: Player performance data from Euro 2024 (standardized per 90 minutes).
+ - Data source: Player performance data from Euro 2024 (standardized per 90 minutes).
 
 ## 🔍 Key Insights
 
