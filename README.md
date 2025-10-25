@@ -1,4 +1,4 @@
-# 🧠 Player Performance Analysis — Rodri vs Declan Rice (Euro 2024)
+# 🧠 Player Performance Analysis - Rodri vs Declan Rice (Euro 2024)
 
 ## 📊 Overview
 
