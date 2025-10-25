@@ -1,6 +1,6 @@
 # 🧠 Player Performance Analysis — Rodri vs Declan Rice (Euro 2024)
 
-📊 Overview
+## 📊 Overview
 
 This project presents a comparative data analysis between Rodri Hernández (Spain) and Declan Rice (England), two of the most influential midfielders in the Euro 2024 tournament.
 
@@ -16,9 +16,9 @@ A written report (PDF) with the main insights, visualizations, and tactical conc
 
 Data source: Player performance data from Euro 2024 (standardized per 90 minutes).
 
-🔍 Key Insights
+## 🔍 Key Insights
 
-Rodri Hernández
+### Rodri Hernández
 
 Excels in passing accuracy (94.27%), progressive passes, and key passes.
 
@@ -26,7 +26,7 @@ Operates as a positional pivot, ensuring stability and possession control.
 
 Heatmap shows strong central presence, reinforcing his role in structured buildup play.
 
-Declan Rice
+### Declan Rice
 
 Dominates in recoveries, interceptions, and passes into the final third (19.71 P90).
 
@@ -34,7 +34,7 @@ Acts as a dynamic box-to-box midfielder, driving transitions and vertical play.
 
 Heatmap shows wide, advanced coverage, reflecting defensive intensity and risk-taking.
 
-Conclusion
+## Conclusion
 
 Both players are equally vital but embody distinct philosophies:
 
@@ -42,7 +42,7 @@ Rodri → Control & positional play
 
 Rice → Intensity & transitions
 
-📈 Analytical Focus
+## 📈 Analytical Focus
 
 Comparison of performance metrics per 90 minutes (P90).
 
