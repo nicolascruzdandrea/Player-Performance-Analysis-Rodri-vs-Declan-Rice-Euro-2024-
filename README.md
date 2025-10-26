@@ -14,7 +14,7 @@ The project includes:
 
  - Technologies & Tools: Python (pandas, numpy, matplotlib, seaborn, plotly, scipy).
 
- - Data source: Player performance data from Euro 2024 (standardized per 90 minutes).
+ - Data source: StatsBomb - Player performance data from Euro 2024 (standardized per 90 minutes).
 
 ## 🔍 Key Insights
 
